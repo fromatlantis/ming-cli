@@ -1,0 +1,21 @@
+{
+    "bin": {
+        "ming": "./bin/ming.js"
+    },
+    "name": "ming-cli",
+    "version": "0.1.0",
+    "description": "cli for react/vue with webpack/parcel",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "niuzhiwei",
+    "license": "MIT",
+    "dependencies": {
+        "commander": "^2.16.0",
+        "git-clone": "^0.1.0",
+        "inquirer": "^6.0.0",
+        "shelljs": "^0.8.2",
+        "tracer": "^0.9.1"
+    }
+}
